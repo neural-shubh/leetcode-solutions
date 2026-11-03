@@ -6,6 +6,7 @@ A collection of LeetCode questions
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0238-product-of-array-except-self](https://github.com/neural-shubh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
@@ -20,9 +21,14 @@ A collection of LeetCode questions
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
