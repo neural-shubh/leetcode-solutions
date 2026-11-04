@@ -8,6 +8,7 @@ A collection of LeetCode questions
 | ------- |
 | [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neural-shubh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
@@ -31,4 +32,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
