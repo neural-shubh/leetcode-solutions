@@ -66,6 +66,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0092-reverse-linked-list-ii](https://github.com/neural-shubh/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 ## Recursion
 |  |
