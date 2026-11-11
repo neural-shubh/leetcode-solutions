@@ -11,6 +11,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/neural-shubh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neural-shubh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0128-longest-consecutive-sequence](https://github.com/neural-shubh/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neural-shubh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neural-shubh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
@@ -125,4 +127,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/neural-shubh/leetcode-solutions/tree/master/0020-valid-parentheses) |
+## Math
+|  |
+| ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 <!---LeetCode Topics End-->
