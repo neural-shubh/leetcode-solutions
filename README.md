@@ -15,6 +15,7 @@ A collection of LeetCode questions
 | [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neural-shubh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
 | [0643-maximum-average-subarray-i](https://github.com/neural-shubh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Matrix
 |  |
@@ -89,6 +90,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neural-shubh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0143-reorder-list) |
+| [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/neural-shubh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
+| [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
