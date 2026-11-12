@@ -92,6 +92,7 @@ A collection of LeetCode questions
 | [0084-largest-rectangle-in-histogram](https://github.com/neural-shubh/leetcode-solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/neural-shubh/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 ## Divide and Conquer
 |  |
@@ -131,4 +132,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/neural-shubh/leetcode-solutions/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
