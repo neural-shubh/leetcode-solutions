@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0643-maximum-average-subarray-i](https://github.com/neural-shubh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Matrix
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions
 | [0150-evaluate-reverse-polish-notation](https://github.com/neural-shubh/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/neural-shubh/leetcode-solutions/tree/master/0155-min-stack) |
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -150,8 +152,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/neural-shubh/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/neural-shubh/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+## Simulation
+|  |
+| ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
