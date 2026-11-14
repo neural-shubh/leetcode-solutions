@@ -45,6 +45,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0011-container-with-most-water) |
+| [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Hash Table
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/neural-shubh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/neural-shubh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/neural-shubh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Union-Find
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/neural-shubh/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
