@@ -71,6 +71,7 @@ A collection of LeetCode questions
 | [0020-valid-parentheses](https://github.com/neural-shubh/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/neural-shubh/leetcode-solutions/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/neural-shubh/leetcode-solutions/tree/master/0049-group-anagrams) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
 ## Union-Find
 |  |
@@ -159,6 +160,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/neural-shubh/leetcode-solutions/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/neural-shubh/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/neural-shubh/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0933-number-of-recent-calls](https://github.com/neural-shubh/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
@@ -189,6 +191,7 @@ A collection of LeetCode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Breadth-First Search
 |  |
@@ -197,6 +200,7 @@ A collection of LeetCode questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/neural-shubh/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Tree
 |  |
@@ -209,6 +213,7 @@ A collection of LeetCode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Depth-First Search
 |  |
@@ -218,6 +223,7 @@ A collection of LeetCode questions
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 ## Binary Lifting
 |  |
