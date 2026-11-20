@@ -136,6 +136,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/neural-shubh/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -193,6 +194,7 @@ A collection of LeetCode questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -215,6 +217,7 @@ A collection of LeetCode questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -225,6 +228,7 @@ A collection of LeetCode questions
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -241,4 +245,5 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 <!---LeetCode Topics End-->
