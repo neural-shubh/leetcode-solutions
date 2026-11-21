@@ -24,6 +24,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Matrix
 |  |
 | ------- |
@@ -75,6 +76,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/neural-shubh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Union-Find
 |  |
 | ------- |
@@ -198,6 +200,7 @@ A collection of LeetCode questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -235,6 +238,7 @@ A collection of LeetCode questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -252,4 +256,12 @@ A collection of LeetCode questions
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
+## Graph Theory
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+## Topological Sort
+|  |
+| ------- |
+| [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 <!---LeetCode Topics End-->
