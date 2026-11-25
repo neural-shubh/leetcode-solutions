@@ -19,6 +19,7 @@ A collection of LeetCode questions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/neural-shubh/leetcode-solutions/tree/master/0238-product-of-array-except-self) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0622-design-circular-queue](https://github.com/neural-shubh/leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/neural-shubh/leetcode-solutions/tree/master/0641-design-circular-deque) |
 | [0643-maximum-average-subarray-i](https://github.com/neural-shubh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/neural-shubh/leetcode-solutions/tree/master/0085-maximal-rectangle) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -152,6 +154,7 @@ A collection of LeetCode questions
 | [0042-trapping-rain-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/neural-shubh/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Monotonic Stack
 |  |
@@ -222,6 +225,7 @@ A collection of LeetCode questions
 | [0104-maximum-depth-of-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -251,6 +255,7 @@ A collection of LeetCode questions
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
@@ -278,15 +283,25 @@ A collection of LeetCode questions
 ## Graph Theory
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
 |  |
 | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
