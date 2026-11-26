@@ -155,6 +155,7 @@ A collection of LeetCode questions
 | [0085-maximal-rectangle](https://github.com/neural-shubh/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 ## Monotonic Stack
 |  |
@@ -230,6 +231,7 @@ A collection of LeetCode questions
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
@@ -288,6 +290,7 @@ A collection of LeetCode questions
 | [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Topological Sort
@@ -309,4 +312,12 @@ A collection of LeetCode questions
 | ------- |
 | [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Bitmask
+|  |
+| ------- |
+| [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 <!---LeetCode Topics End-->
