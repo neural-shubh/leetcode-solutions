@@ -224,6 +224,7 @@ A collection of LeetCode questions
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/neural-shubh/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -253,6 +254,7 @@ A collection of LeetCode questions
 | [0113-path-sum-ii](https://github.com/neural-shubh/leetcode-solutions/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/neural-shubh/leetcode-solutions/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/neural-shubh/leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions
 ## Graph Theory
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -290,6 +293,7 @@ A collection of LeetCode questions
 ## Topological Sort
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
 ## Monotonic Queue
@@ -303,5 +307,6 @@ A collection of LeetCode questions
 ## Directed Acyclic Graph
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/neural-shubh/leetcode-solutions/tree/master/0207-course-schedule) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
