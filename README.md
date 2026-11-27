@@ -25,6 +25,7 @@ A collection of LeetCode questions
 | [0643-maximum-average-subarray-i](https://github.com/neural-shubh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions
 | [0085-maximal-rectangle](https://github.com/neural-shubh/leetcode-solutions/tree/master/0085-maximal-rectangle) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -54,6 +56,7 @@ A collection of LeetCode questions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/neural-shubh/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/neural-shubh/leetcode-solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Greedy
 |  |
@@ -91,6 +94,7 @@ A collection of LeetCode questions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/neural-shubh/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Sliding Window
 |  |
@@ -138,6 +142,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/neural-shubh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Merge Sort
 |  |
@@ -230,6 +235,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -262,6 +268,7 @@ A collection of LeetCode questions
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/neural-shubh/leetcode-solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/neural-shubh/leetcode-solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0841-keys-and-rooms](https://github.com/neural-shubh/leetcode-solutions/tree/master/0841-keys-and-rooms) |
 | [0968-binary-tree-cameras](https://github.com/neural-shubh/leetcode-solutions/tree/master/0968-binary-tree-cameras) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
@@ -320,4 +327,12 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
+## Minimax
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 <!---LeetCode Topics End-->
