@@ -30,6 +30,7 @@ A collection of LeetCode questions
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions
 | [0695-max-area-of-island](https://github.com/neural-shubh/leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/neural-shubh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Merge Sort
 |  |
 | ------- |
@@ -240,6 +243,7 @@ A collection of LeetCode questions
 | [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Binary Tree
 |  |
 | ------- |
@@ -300,6 +304,7 @@ A collection of LeetCode questions
 | [0847-shortest-path-visiting-all-nodes](https://github.com/neural-shubh/leetcode-solutions/tree/master/0847-shortest-path-visiting-all-nodes) |
 | [1971-find-if-path-exists-in-graph](https://github.com/neural-shubh/leetcode-solutions/tree/master/1971-find-if-path-exists-in-graph) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Topological Sort
 |  |
 | ------- |
@@ -335,4 +340,13 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Shortest Path
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## 0-1 BFS
+|  |
+| ------- |
+| [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 <!---LeetCode Topics End-->
