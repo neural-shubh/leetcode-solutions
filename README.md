@@ -73,6 +73,7 @@ A collection of LeetCode questions
 | [0049-group-anagrams](https://github.com/neural-shubh/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/neural-shubh/leetcode-solutions/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/neural-shubh/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/neural-shubh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0217-contains-duplicate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/neural-shubh/leetcode-solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
@@ -111,6 +112,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/neural-shubh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/neural-shubh/leetcode-solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0092-reverse-linked-list-ii](https://github.com/neural-shubh/leetcode-solutions/tree/master/0092-reverse-linked-list-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/neural-shubh/leetcode-solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0143-reorder-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/neural-shubh/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0622-design-circular-queue](https://github.com/neural-shubh/leetcode-solutions/tree/master/0622-design-circular-queue) |
