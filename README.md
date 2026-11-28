@@ -27,6 +27,7 @@ A collection of LeetCode questions
 | [0739-daily-temperatures](https://github.com/neural-shubh/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1672-richest-customer-wealth](https://github.com/neural-shubh/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2246-longest-path-with-different-adjacent-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/2246-longest-path-with-different-adjacent-characters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions
 | [0003-longest-substring-without-repeating-characters](https://github.com/neural-shubh/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/neural-shubh/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Linked List
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions
 | [0023-merge-k-sorted-lists](https://github.com/neural-shubh/leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0778-swim-in-rising-water](https://github.com/neural-shubh/leetcode-solutions/tree/master/0778-swim-in-rising-water) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
 ## Merge Sort
 |  |
@@ -203,6 +206,7 @@ A collection of LeetCode questions
 | [0649-dota2-senate](https://github.com/neural-shubh/leetcode-solutions/tree/master/0649-dota2-senate) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0933-number-of-recent-calls](https://github.com/neural-shubh/leetcode-solutions/tree/master/0933-number-of-recent-calls) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/neural-shubh/leetcode-solutions/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Data Stream
 |  |
@@ -317,6 +321,7 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/neural-shubh/leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Memoization
 |  |
 | ------- |
@@ -351,4 +356,8 @@ A collection of LeetCode questions
 |  |
 | ------- |
 | [2290-minimum-obstacle-removal-to-reach-corner](https://github.com/neural-shubh/leetcode-solutions/tree/master/2290-minimum-obstacle-removal-to-reach-corner) |
+## Ordered Set
+|  |
+| ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/neural-shubh/leetcode-solutions/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 <!---LeetCode Topics End-->
